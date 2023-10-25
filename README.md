@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saadelbahi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadelbahi3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saad el bahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad el bahi" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/saad el bahi](https://www.linkedin.com/in/saad-elbahi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad el bahi" height="30" width="40" /></a>
 <a href="https://fb.com/elbahi saad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elbahi saad" height="30" width="40" /></a>
 <a href="https://instagram.com/saadel.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadel.5" height="30" width="40" /></a>
 </p>
